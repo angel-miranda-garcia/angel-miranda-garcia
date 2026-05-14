@@ -68,9 +68,6 @@ Structured AI-assisted engineering framework using Claude + Cursor as architectu
 ### 📚 [LLM Study Planner Demo](https://github.com/angel-miranda-garcia/llm-study-planner-demo)
 AI-powered curriculum recommendation system — integrates OpenAI API with Typeform surveys via custom webhooks to deliver personalized study plan recommendations. Based on a pilot built for Tecnológico de Monterrey (2024).
 
-### ⚡ [FastAPI Microservice Template](https://github.com/angel-miranda-garcia/fastapi-microservice-template)
-Production-ready FastAPI microservice template with JWT auth, PostgreSQL integration, Docker containerization, and CI/CD pipeline. Follows clean architecture and SOLID principles.
-
 ---
 
 ## 🏆 Career Highlights
@@ -79,7 +76,7 @@ Production-ready FastAPI microservice template with JWT auth, PostgreSQL integra
 - **Credit Scoring Migration** — Led migration of legacy SQL Server scoring process (1,400+ stored procedure lines) to Python/Polars on Teradata DWH with AWS serverless infrastructure
 - **AI-Layered Development** — Designed and proposed structured AI-assisted engineering methodology to C-level; 3x–5x delivery acceleration documented
 - **Tec de Monterrey** — Built LLM-powered study plan recommender integrating OpenAI API + Typeform webhooks (2024)
-- **18+ years** across fintech, banking (Banorte, Banco BASE, BCP), beverage (Heineken), retail, and manufacturing (Pepsico, Sigma Alimentos)
+- **18+ years** across banking (Banorte, Banco BASE, BCP, Barri Group), beverage (Heineken), retail, and manufacturing (Pepsico, Sigma Alimentos, Xignux)
 
 ---
 
