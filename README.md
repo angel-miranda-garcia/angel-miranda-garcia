@@ -2,7 +2,7 @@
 
 **Senior Full-Stack Engineer · Tech Lead · AI Integration**
 
-18+ years building enterprise applications across fintech, banking, beverage, retail, and manufacturing. I design and deliver scalable systems — from cloud-native microservices to AI-powered applications — and lead teams through complex technical migrations.
+20+ years building enterprise applications across fintech, banking, beverage, retail, and manufacturing. I design and deliver scalable systems — from cloud-native microservices to AI-powered applications — and lead teams through complex technical migrations.
 
 📍 Monterrey, México &nbsp;|&nbsp; 🌐 Remote-ready
 
@@ -16,8 +16,9 @@
 - **AI-powered applications** — LLM integration (OpenAI API), AI-assisted delivery workflows, prompt engineering
 - **Cloud-native backends** — microservices on AWS (Lambda, Step Functions, ECS, SageMaker) and Azure
 - **Full-stack web** — Angular, Blazor, React / .NET 9, Node.js, Java/Spring
+- **Java backends** — Spring Boot, REST APIs, Maven, AES-128/OAuth authentication, payment gateway integrations (Banorte Payworks, VISA)
 - **Data engineering pipelines** — Python/Polars, Teradata, Databricks, Great Expectations, Terraform IaC
-- **Mobile** — Xamarin Forms, MAUI (native + Blazor hybrid), React Native
+- **Mobile** — Xamarin Forms, MAUI (native + Blazor hybrid)
 
 ---
 
@@ -68,6 +69,10 @@ Structured AI-assisted engineering framework using Claude + Cursor as architectu
 ### 📚 [LLM Study Planner Demo](https://github.com/angel-miranda-garcia/llm-study-planner-demo)
 AI-powered curriculum recommendation system — integrates OpenAI API with Typeform surveys via custom webhooks to deliver personalized study plan recommendations. Based on a pilot built for Tecnológico de Monterrey (2024).
 
+### 📺 [Sichi Digital Signage](https://github.com/angel-miranda-garcia/jv-sichi)
+Full-stack digital signage platform delivered end-to-end in a single sprint applying AODF v1.3.
+.NET 10 Clean Architecture API · Angular admin with real-time SignalR · HTML/JS player with IndexedDB offline fallback · MySQL · Docker + Nginx
+
 ---
 
 ## 🏆 Career Highlights
@@ -76,7 +81,7 @@ AI-powered curriculum recommendation system — integrates OpenAI API with Typef
 - **Credit Scoring Migration** — Led migration of legacy SQL Server scoring process (1,400+ stored procedure lines) to Python/Polars on Teradata DWH with AWS serverless infrastructure
 - **AI-Layered Development** — Designed and proposed structured AI-assisted engineering methodology to C-level; 3x–5x delivery acceleration documented
 - **Tec de Monterrey** — Built LLM-powered study plan recommender integrating OpenAI API + Typeform webhooks (2024)
-- **18+ years** across banking (Banorte, Banco BASE, BCP, Barri Group), beverage (Heineken), retail, and manufacturing (Pepsico, Sigma Alimentos, Xignux)
+- **20+ years** across banking (Banorte, Banco BASE, BCP, Barri Group), beverage (Heineken), retail, and manufacturing (PepsiCo, Sigma Alimentos, Xignux)
 
 ---
 
